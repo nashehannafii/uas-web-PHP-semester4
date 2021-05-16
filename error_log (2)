@@ -1,0 +1,268 @@
+[27-Mar-2021 18:35:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:35:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:35:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:35:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:35:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:35:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:35:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:35:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:35:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:36:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:36:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:36:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:37:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:37:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:37:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 26
+[27-Mar-2021 18:37:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 18:37:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:37:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:37:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:37:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:37:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:37:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:37:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:38:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:38:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:38:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:38:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:38:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 26
+[27-Mar-2021 18:38:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:38:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 18:38:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:38:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:38:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:39:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:39:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:39:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:42:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:42:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:42:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:42:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:42:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:42:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:42:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:42:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:44:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:44:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:44:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:44:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:44:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:44:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:45:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:45:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:45:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:45:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nasheh'@'localhost' (using password: YES) in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:45:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:45:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:54:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:54:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:54:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:54:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:54:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:54:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:54:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 52
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 53
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 56
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 58
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 81
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 83
+[27-Mar-2021 18:54:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/reg.php on line 12
+[27-Mar-2021 18:55:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 18:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 18:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 26
+[27-Mar-2021 18:56:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 18:56:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:56:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:56:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 18:56:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:57:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:57:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 100
+[27-Mar-2021 18:57:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 102
+[27-Mar-2021 18:57:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 112
+[27-Mar-2021 18:57:10 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 114
+[27-Mar-2021 18:57:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 18:57:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 18:57:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 19:01:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'praktikumbelajar_nasheh'@'localhost' to database 'praktikumbelajar_nasheh' in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:01:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 19:01:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 19:06:31 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 19:06:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 19:06:32 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 19:06:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 19:06:36 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 19:06:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 19:06:42 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 19:06:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 19:06:43 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 52
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 53
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 56
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 58
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 81
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 83
+[27-Mar-2021 19:06:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/reg.php on line 12
+[27-Mar-2021 19:07:33 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:07:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 52
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 53
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 56
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 58
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 81
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 83
+[27-Mar-2021 19:07:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/reg.php on line 12
+[27-Mar-2021 19:08:54 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:08:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 52
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 53
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 56
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 58
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 81
+[27-Mar-2021 19:09:01 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 83
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3257237 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 8
+[27-Mar-2021 19:11:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3257861 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/login.php on line 16
+[27-Mar-2021 19:12:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/login.php on line 18
+[27-Mar-2021 19:13:03 UTC] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:03 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:03 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3258561 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3259208 in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/praktikumbelajar/public_html/nasheh/function.php on line 3
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 52
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 53
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 56
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/function.php on line 58
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 81
+[27-Mar-2021 19:13:40 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 83
+[27-Mar-2021 19:18:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[27-Mar-2021 19:31:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/praktikumbelajar/public_html/nasheh/index.php on line 9
+[27-Mar-2021 19:31:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/praktikumbelajar/public_html/nasheh/index.php on line 9
+[27-Mar-2021 19:34:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/praktikumbelajar/public_html/nasheh/function.php on line 178
+[27-Mar-2021 19:34:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/praktikumbelajar/public_html/nasheh/function.php on line 178
+[27-Mar-2021 20:09:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[27-Mar-2021 20:39:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 20:39:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 20:40:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[27-Mar-2021 22:20:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[28-Mar-2021 02:45:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[28-Mar-2021 02:45:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[28-Mar-2021 04:16:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[28-Mar-2021 14:30:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 03:07:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 03:12:54 UTC] PHP Fatal error:  Cannot redeclare hapus() (previously declared in /home/praktikumbelajar/public_html/nasheh/hapus.php:7) in /home/praktikumbelajar/public_html/nasheh/function.php on line 31
+[30-Mar-2021 03:13:00 UTC] PHP Fatal error:  Cannot redeclare hapus() (previously declared in /home/praktikumbelajar/public_html/nasheh/hapus.php:7) in /home/praktikumbelajar/public_html/nasheh/function.php on line 31
+[30-Mar-2021 03:15:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 03:20:01 UTC] PHP Fatal error:  Cannot redeclare hapus() (previously declared in /home/praktikumbelajar/public_html/nasheh/hapus.php:11) in /home/praktikumbelajar/public_html/nasheh/function.php on line 31
+[30-Mar-2021 03:20:07 UTC] PHP Fatal error:  Cannot redeclare hapus() (previously declared in /home/praktikumbelajar/public_html/nasheh/hapus.php:11) in /home/praktikumbelajar/public_html/nasheh/function.php on line 31
+[30-Mar-2021 03:20:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 03:45:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 03:48:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 03:48:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 03:53:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 04:07:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 04:07:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 04:08:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/praktikumbelajar/public_html/nasheh/edit.php on line 13
+[30-Mar-2021 04:23:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 04:24:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/praktikumbelajar/public_html/nasheh/function.php on line 10
+[30-Mar-2021 04:37:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 04:46:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[30-Mar-2021 12:10:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[31-Mar-2021 03:20:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[31-Mar-2021 12:56:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[31-Mar-2021 15:48:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[01-Apr-2021 03:58:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[03-Apr-2021 16:14:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[03-Apr-2021 16:16:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[04-Apr-2021 10:12:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[05-Apr-2021 10:15:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
+[13-Apr-2021 04:22:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/praktikumbelajar/public_html/nasheh/logadmin.php on line 18
