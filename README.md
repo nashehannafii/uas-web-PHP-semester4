@@ -1,1 +1,4 @@
-# uas-web-PHP-semester4
+# Project UAS Teknik Informatika Semester 4
+
+- Implementasi PHP CRUD 
+- Implemetasi UI-UX by Boostrap
